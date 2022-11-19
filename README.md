@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python and work in Azure.
 - 💞️ I’m looking to collaborate on stuff?
 - 📫 How to reach me kaan@korelyazilim.net
-- 💬 Ask me about .net, windows applications and software architecture
+- 💬 Ask me about .NET, Windows & Web applications and Software Architecture
 
 <b>Bio</b>
 
