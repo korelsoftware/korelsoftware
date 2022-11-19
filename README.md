@@ -8,7 +8,7 @@
 
 <b>Bio</b>
 
-- 🏢 I'm currently working at Korel Software as an .NET Developer
+- 🏢 I'm currently working at my own software company <a href="https://korelyazilim.net">Korel Software</a> as an .NET Developer
 - 👨‍💻 I use daily: .cs, .py, .json
 - 🌍 I'm mostly active within the .NET Community and Software Development
 - 📱 Learning all about Web Development and Software Development
