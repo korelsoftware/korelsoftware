@@ -1,4 +1,4 @@
-Hello World
+<b>Hello World</b>
 
 - 👋 Hi, I’m Kaan Korel
 - 👀 I’m interested in C#,.NET, & continuous integration!
@@ -6,7 +6,7 @@ Hello World
 - 💞️ I’m looking to collaborate on stuff?
 - 📫 How to reach me kaan@korelyazilim.net
 
-Bio
+<b>Bio</b>
 
 - 🏢 I'm currently working at Korel Software as an .NET Developer
 - 👨‍💻 I use daily: .cs, .py, .json
